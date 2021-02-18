@@ -46,7 +46,7 @@ function NavbarMy(){
                             </Button>
                         </Nav.Link>
                         }   
-                        <Nav.Link className="cart-link" href="#Cart"><i class="fas fa fa-shopping-cart fa-2x cart"></i></Nav.Link>
+                      
                     </Nav>
                 </Navbar.Collapse>
                 <Link to="/checkout" className="header__link">
